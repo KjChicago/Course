@@ -1,10 +1,4 @@
-## How to Run This Project
-
- Run the application:
-   ```bash
-   python main.py
-   ```
-   Exercise 1: Identify the Prompt Technique
+ Exercise 1: Identify the Prompt Technique
 
 · Objective: Check understanding of different prompt techniques.
 
