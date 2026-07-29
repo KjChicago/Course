@@ -1,0 +1,11 @@
+textTask: Process the news brief provided below. You must generate two distinct outputs, carefully separated by the requested text block markers.
+
+---INPUT_TEXT---
+Global logistics leader TransCargo announced a massive $500 million investment to transition its entire delivery fleet to fully electric vehicles by 2030, cutting carbon emissions by an estimated 60% worldwide.
+---INPUT_TEXT---
+
+Your output must follow this strict schema layout:
+===HEADLINE===
+[Insert catchy business headline here]
+===SUMMARY===
+[Insert a maximum 50-word summary of the fleet transition here]
