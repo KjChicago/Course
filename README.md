@@ -1,4 +1,18 @@
-Exercise 1: Identify the Prompt Technique
+## How to Run This Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the application:
+   ```bash
+   python main.py
+   ```
+   Exercise 1: Identify the Prompt Technique
 
 · Objective: Check understanding of different prompt techniques.
 
